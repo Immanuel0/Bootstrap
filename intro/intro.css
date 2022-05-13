@@ -1,0 +1,13 @@
+.btn{
+    border-radius: 10px;
+}
+
+.round{
+    border-radius: 20px;
+}
+
+.avt {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
